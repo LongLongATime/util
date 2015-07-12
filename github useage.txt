@@ -14,6 +14,27 @@
 
 
 
+操作分支——
+
+创建一个叫做“feature_x”的分支，并切换过去：
+
+git checkout -b feature_x
+
+切换回主分支：
+
+git checkout master
+
+再把新建的分支删掉：
+
+git branch -d feature_x
+
+除非你将分支推送到远端仓库，不然该分支就是 不为他人所见的：
+
+git push origin <branch>
+
+
+
+
 git命令地址
 
 http://www.bootcss.com/p/git-guide/
