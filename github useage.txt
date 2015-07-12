@@ -32,6 +32,9 @@ git branch -d feature_x
 
 git push origin <branch>
 
+查看分支：
+
+git branch list
 
 
 
