@@ -1,0 +1,19 @@
+准备工作：安装git（windows下安装 git bash）
+
+1、初始化git仓库：git init
+
+2、关联远程仓库: git remote add 仓库名  git@github.com:jiangqingqing/util.git
+
+3、获取远程仓库资源：git pull 仓库名 master
+
+4、添加本地资源到工作目录: git add 资源名称
+
+5、把工作目录资源添加到本地缓存：git commit -m 'xxx' 资源名称
+
+6、提交本地缓存到远程仓库：git push 仓库名 master
+
+
+
+git命令地址
+
+http://www.bootcss.com/p/git-guide/
